@@ -1,0 +1,8 @@
+{
+  "name": "media-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "a27b54d1"
+}
